@@ -3,7 +3,7 @@
 # Remove If running container
 `docker rm -f myapp`
 
-#Build Image
+# Build Image
 `docker build -t myapp .`
 
 # Run the App (Conatainer  myapp-v2) (Image name mypp)
