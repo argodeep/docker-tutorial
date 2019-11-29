@@ -1,6 +1,6 @@
 # docker-tutorial
 
-try at [Play with docker](https://labs.play-with-docker.com/){:target="_blank"}
+try at [Play with docker](https://labs.play-with-docker.com/)
 
 # Remove If running container
 `docker rm -f myapp`
