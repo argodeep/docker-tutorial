@@ -10,4 +10,4 @@
 `docker run -itd -p 5000:80 --name myapp-v2 myapp`
 
 # See the response
-curl localhost:5000
+`curl localhost:5000`
